@@ -18,7 +18,10 @@ repo to install.
 
 ## Available Skills
 
--   [**Gemini API in Agent Platform**](./skills/cloud/gemini-api)
+-   [**Agent Platform - Agents API**](./skills/cloud/gemini-agents-api)
+-   [**Agent Platform - Gemini API**](./skills/cloud/gemini-api)
+-   [**Agent Platform - Gemini Interactions API**](./skills/cloud/gemini-api)
+-   [**Agent Platform - Skill Registry**](./skills/cloud/agent-platform-skill-registry)
 -   [**AlloyDB Basics**](./skills/cloud/alloydb-basics)
 -   [**BigQuery Basics**](./skills/cloud/bigquery-basics)
 -   [**Cloud Run Basics**](./skills/cloud/cloud-run-basics)
